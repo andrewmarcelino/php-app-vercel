@@ -1,0 +1,28 @@
+Options -Indexes
+RewriteEngine On
+
+RewriteRule ^about-us\/([0-9]+)\/(.+) 404.php
+RewriteRule ^about-us history.php
+
+RewriteRule ^ibadah-raya-komisi\/([0-9]+)\/(.+) 404.php
+RewriteRule ^ibadah-raya-komisi ibadah-raya-komisi.php
+
+RewriteRule ^komsel\/([0-9]+)\/(.+) 404.php
+RewriteRule ^komsel komsel.php
+
+RewriteRule ^sms-pemenang\/([0-9]+)\/(.+) 404.php
+RewriteRule ^sms-pemenang sms-pemenang.php
+
+RewriteRule ^contact\/([0-9]+)\/(.+) 404.php
+RewriteRule ^contact contact.php
+
+RewriteRule ^gereja-cabang\/([0-9]+)\/(.+) 404.php
+RewriteRule ^gereja-cabang gereja-cabang.php
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
+ErrorDocument 404 /gbicitrafamily/404.php
+
+AddType image/svg+xml svg svgz
+AddEncoding gzip svgz

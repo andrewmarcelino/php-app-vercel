@@ -1,0 +1,65 @@
+[
+    {
+        "nama": "GBI Citra 6",
+        "alamat": "Citra Garden City 6 Blok i5A no. 22, Jakarta Barat",
+        "jadwal": "<b>Ibadah Raya</b> - Setiap hari Minggu Pukul 10.00<br><b>Ibadah Anak</b> - Setiap hari Minggu Pukul 07.45<br><b>Ibadah Remaja Pemuda</b> - Setiap hari Minggu Pukul 15.00<br><b>Ibadah WBI</b> - Rabu Pukul 19.00<br><b>Doa Puasa</b> - Pukul 19.00<br><b>Komsel</b> - Selasa - Kamis<br>",
+        "image": "assets/img/cabang/gbi-citra-6.png",
+        "contact_name": "Pdp. Siti Rohani",
+        "contact": "+6281318562450",
+        "direction": "https://www.google.com/maps/dir//GBI%20Citra%206"
+    },
+    {
+        "nama": "GBI Citra GNR",
+        "alamat": "Tower Bougenville Lt. 1B/01/EE Gading Nias Residence",
+        "jadwal": "<b>Ibadah Raya</b> - Setiap hari Minggu Pukul 09.00<br><b>Ibadah Anak</b> - Setiap hari Minggu Pukul 11.00<br><b>Ibadah Remaja Pemuda</b> - Setiap hari Minggu Pukul 12.00<br><b>Ibadah Pria</b> - Sabtu Pukul 17.30 (Minggu ke-2)<br><b>Ibadah Wanita</b> - Sabtu Pukul 17.00 (Minggu ke-4)<br><b>Komsel</b> - Selasa Pukul 19.00<br><b>Doa Korporat</b> - Senin, Rabu, Jumat Pukul 19.00<br>",
+        "image": "assets/img/cabang/gbi-citra-gnr.png",
+        "contact_name": "Pdm. Indra Hardy",
+        "contact": "+6281318016577",
+        "direction": "https://www.google.com/maps/dir//GBI%20Citra%20GNR"
+    },
+    {
+        "nama": "GBI Citra Sepatan",
+        "alamat": "Perumahan Panorama Sepatan 2 Blok C 4 /15.<br>Jl. Raya Gatot Soebroto, Lebak Wangi, Kec. Sepatan Timur, Kab. Tangerang, Banten",
+        "jadwal": "<b>Ibadah Raya</b> - Setiap hari Minggu Pukul 17.00<br><b>Komsel</b> - Hari Kamis Pukul 19.30<br>",
+        "image": "assets/img/cabang/gbi-citra-sepatan.png",
+        "contact_name": "Pdp. Yakobus Sagimin",
+        "contact": "+6289513762603",
+        "direction": "https://www.google.com/maps/dir//GBI%20Citra%20Garden%201"
+    },
+    {
+        "nama": "GBI Citra Wadunggetas",
+        "alamat": "Dukuh Kadipiro Cinan RT.006/012, Kel. Wadunggetas, Kec. Wonosari, Klaten, Jawa Tengah, 57473",
+        "jadwal": "<b>Ibadah Raya</b> - Setiap hari Minggu Pukul 09.00<br><b>Ibadah WBI</b> - Rabu Pukul 18.00 (minggu ke-2 dan ke-4)<br><b>Ibadah Remaja Pemuda</b> - Sabtu Pukul 18.00<br>",
+        "image": "assets/img/cabang/gbi-citra-wadunggetas.png",
+        "contact_name": "Febiola M Sampelan",
+        "contact": "+6285327267010",
+        "direction": "https://www.google.com/maps/dir//GBI%20Citra%20Wadunggetas"
+    },
+    {
+        "nama": "GBI Citra Cimahi",
+        "alamat": "Jl. Pasopati 26 Cimahi, Jawa Barat. RT.04 RW.11, Setia Manah, Cimahi Tengah",
+        "jadwal": "<b>Ibadah Raya</b> - Setiap hari Minggu Pukul 10.00<br><b>Ibadah Wanita</b> - Setiap hari Sabtu Pukul 10.00<br><b>Ibadah Anak</b> - Setiap hari Minggu Pukul 10.00<br><b>Ibadah Remaja Pemuda</b> - Setiap hari Minggu Pukul 12.30<br>",
+        "image": "assets/img/cabang/gbi-citra-cimahi.png",
+        "contact_name": "Pdm. Sutris Triyanta. Sth.,MA",
+        "contact": "+6281321920711",
+        "direction": "https://www.google.com/maps/dir//GBI%20Citra%20Cimahi"
+    },
+    {
+        "nama": "GBI Citra Karen Indah",
+        "alamat": "Pritgantil Sokaraja Kulon RT001/RW010, Kec. Sokaraja, Kab. Banyumas, Jawa Tengah",
+        "jadwal": "<b>Ibadah Raya</b> - Setiap hari Minggu Pukul 08.00<br><b>Ibadah Wanita</b> - Minggu Pukul 17.00 (ke-4)<br><b>Komsel</b> - Setiap hari Selasa Pukul 18.00<br><b>Doa Korporat</b> - Setiap hari Sabtu Pukul 18.30<br>",
+        "image": "assets/img/cabang/gbi-citra-karen-indah.png",
+        "contact_name": "Yosafat Sutarto",
+        "contact": "+6282328807721",
+        "direction": "https://www.google.com/maps/dir//Pritgantil%20Sokaraja%20Kulon"
+    },
+    {
+        "nama": "GBI Citra Tinompo",
+        "alamat": "Jl. Trans Sulawesi, Lorong siriki, Desa Tinompo, Kec. Lembo, Kab. Morowali Utara, Sulawesi Tengah",
+        "jadwal": "<b>Ibadah Raya</b> - Setiap hari Minggu Jam 09.00<br><b>Ibadah Anak</b> - Setiap hari Minggu Jam 10.00<br><b>Ibadah Youth/Pemuda</b> - Setiap hari Selasa Jam 18.00<br><b>Ibadah Pengajaran</b> - Setiap hari Rabu Jam 18.00<br><b>Komsel</b> - Setiap hari Jumat Jam 18.00<br><b>Doa Puasa</b> - Setiap hari Sabtu Jam 18.00<br>",
+        "image": "assets/img/cabang/gbi-citra-tinompo.png",
+        "contact_name": "Pdt. Jimmy Pattiradjawane",
+        "contact": "+628114533278",
+        "direction": "https://www.google.com/maps/dir//GBI%20Citra%20Tinompo"
+    }
+]
