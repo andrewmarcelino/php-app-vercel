@@ -19,7 +19,7 @@ include_once('func/globals.php');
     <!-- Google fonts-->
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
     <!-- Owl Carousel-->
-    <link href="vendors/owlcarousel-2.3.4/owl.carousel.min.css" rel="stylesheet" type="text/css" />
+    <link href="vendors/owlcarousel-2.3.4/owl.carousel-css.min.css" rel="stylesheet" type="text/css" />
     <!-- Light Gallery-->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.2/css/lightgallery.min.css" rel="stylesheet" type="text/css" />
     <!-- Core theme CSS (includes Bootstrap)-->
